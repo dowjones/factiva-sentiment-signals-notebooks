@@ -1,1 +1,4 @@
 export FSS_USERKEY="abcd1234abcd1234abcd1234abcd1234"
+export FACTIVA_CLIENTID="xxxxyyyyxxxxzzzzyyyyxxxxzzzzyyyy"
+export FACTIVA_USERNAME="9999999999-svcaccount@dowjones.com"
+export FACTIVA_PASSWORD="pwdPWDpwdPWDpwdPWD"
